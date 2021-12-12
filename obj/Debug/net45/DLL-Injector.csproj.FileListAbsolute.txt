@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\New folder\bin\Debug\net45\DLLInjector.exe.config
+C:\Users\James\Desktop\New folder\bin\Debug\net45\DLLInjector.exe
+C:\Users\James\Desktop\New folder\bin\Debug\net45\DLLInjector.pdb
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLL-Injector.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLL-Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLLInjector.Form1.resources
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLL-Injector.csproj.GenerateResource.cache
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLL-Injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLL-Injector.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLLInjector.exe
+C:\Users\James\Desktop\New folder\obj\Debug\net45\DLLInjector.pdb
